@@ -40,3 +40,4 @@ router.post('/user', (req , res)=> {
             console.log('err' + err);
         }
     });
+})
